@@ -1,6 +1,6 @@
 ## Brasileiro Feminino A3 de 2023
 
-| Jogo | Número do Jogo | Grupo | Rodada | Boletim Financeiro | Súmula | Relatório |
+| Jogo | Número do Jogo | Grupo | Rodada | Boletim<br>Financeiro | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Assermurb x São Raimundo | 9 | 9 | 1 | [original](https://conteudo.cbf.com.br/sumulas/2023/20510169b.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a3/2023/jogos/825617_assermurb-x-saoraimundo/825617_assermurb-x-saoraimundo_20510169b.pdf) | [original](https://conteudo.cbf.com.br/sumulas/2023/20510169se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a3/2023/jogos/825617_assermurb-x-saoraimundo/825617_assermurb-x-saoraimundo_20510169se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2023/20510169rdj.pdf)<br>-<br>**não arquivado** |
 | São Raimundo x Assermurb | 25 | 9 | 2 | [original com erro](https://conteudo.cbf.com.br/sumulas/2023/205101625b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2023/205101625se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a3/2023/jogos/825633_saoraimundo-x-assermurb/825633_saoraimundo-x-assermurb_205101625se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2023/205101625rdj.pdf)<br>-<br>**não arquivado** |

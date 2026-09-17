@@ -1,6 +1,6 @@
 ## Brasileiro Feminino A2 de 2019
 
-| Jogo | Número do Jogo | Grupo | Rodada | Boletim Financeiro | Súmula | Relatório |
+| Jogo | Número do Jogo | Grupo | Rodada | Boletim<br>Financeiro | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | São Paulo x Cruzeiro Esporte Clube | 119 | 21 | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/1671016119b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2019/1671016119se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a2/2019/jogos/814427_saopaulo-x-cruzeiroesporteclube/814427_saopaulo-x-cruzeiroesporteclube_1671016119se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/1671016119rdj.pdf)<br>-<br>**não arquivado** |
 | São Paulo x Palmeiras | 115 | 20 | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/1671016115b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2019/1671016115se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a2/2019/jogos/814298_saopaulo-x-palmeiras/814298_saopaulo-x-palmeiras_1671016115se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/1671016115rdj.pdf)<br>-<br>**não arquivado** |

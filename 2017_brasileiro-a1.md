@@ -1,6 +1,6 @@
 ## Brasileiro Feminino A1 de 2017
 
-| Jogo | Número do Jogo | Grupo | Rodada | Boletim Financeiro | Súmula | Relatório |
+| Jogo | Número do Jogo | Grupo | Rodada | Boletim<br>Financeiro | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Santos FC x Corinthians | 125 | 9 | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2017/1661016125b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2017/1661016125se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a1/2017/jogos/809490_santosfc-x-corinthians/809490_santosfc-x-corinthians_1661016125se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2017/1661016125rdj.pdf)<br>-<br>**não arquivado** |
 | Iranduba x Santos FC | 122 | 8 | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2017/1661016122b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2017/1661016122se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a1/2017/jogos/809318_iranduba-x-santosfc/809318_iranduba-x-santosfc_1661016122se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2017/1661016122rdj.pdf)<br>-<br>**não arquivado** |

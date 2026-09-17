@@ -1,6 +1,6 @@
 ## Brasileiro Feminino A2 de 2017
 
-| Jogo | Número do Jogo | Grupo | Rodada | Boletim Financeiro | Súmula | Relatório |
+| Jogo | Número do Jogo | Grupo | Rodada | Boletim<br>Financeiro | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Portuguesa x Pinheirense | 61 | 5 | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2017/167101661b.pdf)<br>-<br>**não arquivado** | [original com erro](https://conteudo.cbf.com.br/sumulas/2017/167101661se.pdf)<br>-<br>**não arquivado** | [original com erro](https://conteudo.cbf.com.br/sumulas/2017/167101661rdj.pdf)<br>-<br>**não arquivado** |
 | Pinheirense x Portuguesa | 62 | 5 | 2 | [original com erro](https://conteudo.cbf.com.br/sumulas/2017/167101662b.pdf)<br>-<br>**não arquivado** | [original com erro](https://conteudo.cbf.com.br/sumulas/2017/167101662se.pdf)<br>-<br>**não arquivado** | [original com erro](https://conteudo.cbf.com.br/sumulas/2017/167101662rdj.pdf)<br>-<br>**não arquivado** |

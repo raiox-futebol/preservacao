@@ -1,6 +1,6 @@
 ## Brasileiro Feminino sub16 de 2019
 
-| Jogo | Número do Jogo | Grupo | Rodada | Boletim Financeiro | Súmula | Relatório |
+| Jogo | Número do Jogo | Grupo | Rodada | Boletim<br>Financeiro | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | São Paulo x Santos FC | 22 | G | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/164101622b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2019/164101622se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-sub-16/2019/jogos/814688_saopaulo-x-santosfc/814688_saopaulo-x-santosfc_164101622se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/164101622rdj.pdf)<br>-<br>**não arquivado** |
 | Ferroviária x Vitória | 21 | F | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/164101621b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2019/164101621se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-sub-16/2019/jogos/814687_ferroviaria-x-vitoria/814687_ferroviaria-x-vitoria_164101621se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/164101621rdj.pdf)<br>-<br>**não arquivado** |

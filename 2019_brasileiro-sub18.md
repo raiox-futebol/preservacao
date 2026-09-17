@@ -1,6 +1,6 @@
 ## Brasileiro Feminino sub18 de 2019
 
-| Jogo | Número do Jogo | Grupo | Rodada | Boletim Financeiro | Súmula | Relatório |
+| Jogo | Número do Jogo | Grupo | Rodada | Boletim<br>Financeiro | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | São Paulo x Internacional | 90 | L | 2 | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/165101690b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2019/165101690se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-sub-18/2019/jogos/814523_saopaulo-x-internacional/814523_saopaulo-x-internacional_165101690se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/165101690rdj.pdf)<br>-<br>**não arquivado** |
 | Internacional x São Paulo | 89 | L | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/165101689b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2019/165101689se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-sub-18/2019/jogos/814522_internacional-x-saopaulo/814522_internacional-x-saopaulo_165101689se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2019/165101689rdj.pdf)<br>-<br>**não arquivado** |

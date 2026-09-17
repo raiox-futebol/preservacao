@@ -1,6 +1,6 @@
 ## Brasileiro Feminino A1 de 2018
 
-| Jogo | Número do Jogo | Grupo | Rodada | Boletim Financeiro | Súmula | Relatório |
+| Jogo | Número do Jogo | Grupo | Rodada | Boletim<br>Financeiro | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Rio Preto x Corinthians | 125 | 09 | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2018/1661016125b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2018/1661016125se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a1/2018/jogos/812050_riopreto-x-corinthians/812050_riopreto-x-corinthians_1661016125se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2018/1661016125rdj.pdf)<br>-<br>**não arquivado** |
 | Corinthians x Rio Preto | 126 | 09 | 2 | [original com erro](https://conteudo.cbf.com.br/sumulas/2018/1661016126b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2018/1661016126se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a1/2018/jogos/812051_corinthians-x-riopreto/812051_corinthians-x-riopreto_1661016126se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2018/1661016126rdj.pdf)<br>-<br>**não arquivado** |

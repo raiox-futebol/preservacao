@@ -17,7 +17,7 @@ Navegação Rápida
 
 ## Brasileiro Feminino A1
 
-| Ano | Jogos | Boletins Financeiros | Súmulas | Relatórios | Jogo a Jogo |
+| Ano | Jogos | Boletins<br>Financeiros | Súmulas | Relatórios | Jogo a Jogo |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 | **2017** | 126 | ✔️ 1 (0%)<br>❌ 125 (99%) | ✔️ 126 (100%)<br>❌ 0 (0%) | ✔️ 0 (0%)<br>❌ 126 (100%) | [Acervo Completo](2017_brasileiro-a1.md)
 | **2018** | 126 | ✔️ 0 (0%)<br>❌ 126 (100%) | ✔️ 121 (96%)<br>❌ 5 (3%) | ✔️ 0 (0%)<br>❌ 126 (100%) | [Acervo Completo](2018_brasileiro-a1.md)
@@ -29,11 +29,11 @@ Navegação Rápida
 | **2024** | 134 | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 134 (100%)<br>❌ 0 (0%) | [Acervo Completo](2024_brasileiro-a1.md)
 | **2025** | 134 | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 134 (100%)<br>❌ 0 (0%) | [Acervo Completo](2025_brasileiro-a1.md)
 | **2026** | 163 | ✔️ 163 (100%)<br>❌ 0 (0%) | ✔️ 163 (100%)<br>❌ 0 (0%) | ✔️ 161 (98%)<br>❌ 2 (1%) | [Acervo Completo](2026_brasileiro-a1.md)
-| **Total** | 1352 | ✔️ 969 (71%)<br>❌ 383 (28%) | ✔️ 1347 (99%)<br>❌ 5 (0%) | ✔️ 785 (58%)<br>❌ 567 (41%) | [Acervo Completo]()
+| **Total** | 1352 | ✔️ 969 (71%)<br>❌ 383 (28%) | ✔️ 1347 (99%)<br>❌ 5 (0%) | ✔️ 785 (58%)<br>❌ 567 (41%) | | 
 
 ## Brasileiro Feminino A2
 
-| Ano | Jogos | Boletins Financeiros | Súmulas | Relatórios | Jogo a Jogo |
+| Ano | Jogos | Boletins<br>Financeiros | Súmulas | Relatórios | Jogo a Jogo |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 | **2017** | 62 | ✔️ 0 (0%)<br>❌ 62 (100%) | ✔️ 0 (0%)<br>❌ 62 (100%) | ✔️ 0 (0%)<br>❌ 62 (100%) | [Acervo Completo](2017_brasileiro-a2.md)
 | **2018** | 75 | ✔️ 2 (2%)<br>❌ 73 (97%) | ✔️ 2 (2%)<br>❌ 73 (97%) | ✔️ 2 (2%)<br>❌ 73 (97%) | [Acervo Completo](2018_brasileiro-a2.md)
@@ -45,65 +45,65 @@ Navegação Rápida
 | **2024** | 70 | ✔️ 70 (100%)<br>❌ 0 (0%) | ✔️ 70 (100%)<br>❌ 0 (0%) | ✔️ 69 (98%)<br>❌ 1 (1%) | [Acervo Completo](2024_brasileiro-a2.md)
 | **2025** | 70 | ✔️ 70 (100%)<br>❌ 0 (0%) | ✔️ 70 (100%)<br>❌ 0 (0%) | ✔️ 70 (100%)<br>❌ 0 (0%) | [Acervo Completo](2025_brasileiro-a2.md)
 | **2026** | 133 | ✔️ 133 (100%)<br>❌ 0 (0%) | ✔️ 133 (100%)<br>❌ 0 (0%) | ✔️ 128 (96%)<br>❌ 5 (3%) | [Acervo Completo](2026_brasileiro-a2.md)
-| **Total** | 902 | ✔️ 646 (71%)<br>❌ 256 (28%) | ✔️ 766 (84%)<br>❌ 136 (15%) | ✔️ 508 (56%)<br>❌ 394 (43%) | [Acervo Completo]()
+| **Total** | 902 | ✔️ 646 (71%)<br>❌ 256 (28%) | ✔️ 766 (84%)<br>❌ 136 (15%) | ✔️ 508 (56%)<br>❌ 394 (43%) | | 
 
 ## Brasileiro Feminino A3
 
-| Ano | Jogos | Boletins Financeiros | Súmulas | Relatórios | Jogo a Jogo |
+| Ano | Jogos | Boletins<br>Financeiros | Súmulas | Relatórios | Jogo a Jogo |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 | **2022** | 62 | ✔️ 34 (54%)<br>❌ 28 (45%) | ✔️ 62 (100%)<br>❌ 0 (0%) | ✔️ 5 (8%)<br>❌ 57 (91%) | [Acervo Completo](2022_brasileiro-a3.md)
 | **2023** | 62 | ✔️ 57 (91%)<br>❌ 5 (8%) | ✔️ 62 (100%)<br>❌ 0 (0%) | ✔️ 15 (24%)<br>❌ 47 (75%) | [Acervo Completo](2023_brasileiro-a3.md)
 | **2024** | 62 | ✔️ 62 (100%)<br>❌ 0 (0%) | ✔️ 62 (100%)<br>❌ 0 (0%) | ✔️ 62 (100%)<br>❌ 0 (0%) | [Acervo Completo](2024_brasileiro-a3.md)
 | **2025** | 78 | ✔️ 78 (100%)<br>❌ 0 (0%) | ✔️ 78 (100%)<br>❌ 0 (0%) | ✔️ 78 (100%)<br>❌ 0 (0%) | [Acervo Completo](2025_brasileiro-a3.md)
 | **2026** | 126 | ✔️ 126 (100%)<br>❌ 0 (0%) | ✔️ 126 (100%)<br>❌ 0 (0%) | ✔️ 125 (99%)<br>❌ 1 (0%) | [Acervo Completo](2026_brasileiro-a3.md)
-| **Total** | 390 | ✔️ 357 (91%)<br>❌ 33 (8%) | ✔️ 390 (100%)<br>❌ 0 (0%) | ✔️ 285 (73%)<br>❌ 105 (26%) | [Acervo Completo]()
+| **Total** | 390 | ✔️ 357 (91%)<br>❌ 33 (8%) | ✔️ 390 (100%)<br>❌ 0 (0%) | ✔️ 285 (73%)<br>❌ 105 (26%) | | 
 
 ## Brasileiro Feminino sub16
 
-| Ano | Jogos | Boletins Financeiros | Súmulas | Relatórios | Jogo a Jogo |
+| Ano | Jogos | Boletins<br>Financeiros | Súmulas | Relatórios | Jogo a Jogo |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 | **2019** | 22 | ✔️ 0 (0%)<br>❌ 22 (100%) | ✔️ 22 (100%)<br>❌ 0 (0%) | ✔️ 0 (0%)<br>❌ 22 (100%) | [Acervo Completo](2019_brasileiro-sub16.md)
 | **2020** | 22 | ✔️ 0 (0%)<br>❌ 22 (100%) | ✔️ 22 (100%)<br>❌ 0 (0%) | ✔️ 21 (95%)<br>❌ 1 (4%) | [Acervo Completo](2020_brasileiro-sub16.md)
 | **2021** | 22 | ✔️ 0 (0%)<br>❌ 22 (100%) | ✔️ 22 (100%)<br>❌ 0 (0%) | ✔️ 21 (95%)<br>❌ 1 (4%) | [Acervo Completo](2021_brasileiro-sub16.md)
-| **Total** | 66 | ✔️ 0 (0%)<br>❌ 66 (100%) | ✔️ 66 (100%)<br>❌ 0 (0%) | ✔️ 42 (63%)<br>❌ 24 (36%) | [Acervo Completo]()
+| **Total** | 66 | ✔️ 0 (0%)<br>❌ 66 (100%) | ✔️ 66 (100%)<br>❌ 0 (0%) | ✔️ 42 (63%)<br>❌ 24 (36%) | | 
 
 ## Brasileiro Feminino sub17
 
-| Ano | Jogos | Boletins Financeiros | Súmulas | Relatórios | Jogo a Jogo |
+| Ano | Jogos | Boletins<br>Financeiros | Súmulas | Relatórios | Jogo a Jogo |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 | **2022** | 24 | ✔️ 3 (12%)<br>❌ 21 (87%) | ✔️ 24 (100%)<br>❌ 0 (0%) | ✔️ 3 (12%)<br>❌ 21 (87%) | [Acervo Completo](2022_brasileiro-sub17.md)
 | **2023** | 29 | ✔️ 0 (0%)<br>❌ 29 (100%) | ✔️ 29 (100%)<br>❌ 0 (0%) | ✔️ 0 (0%)<br>❌ 29 (100%) | [Acervo Completo](2023_brasileiro-sub17.md)
 | **2024** | 29 | ✔️ 29 (100%)<br>❌ 0 (0%) | ✔️ 29 (100%)<br>❌ 0 (0%) | ✔️ 29 (100%)<br>❌ 0 (0%) | [Acervo Completo](2024_brasileiro-sub17.md)
 | **2025** | 85 | ✔️ 85 (100%)<br>❌ 0 (0%) | ✔️ 85 (100%)<br>❌ 0 (0%) | ✔️ 85 (100%)<br>❌ 0 (0%) | [Acervo Completo](2025_brasileiro-sub17.md)
 | **2026** | 86 | ✔️ 86 (100%)<br>❌ 0 (0%) | ✔️ 86 (100%)<br>❌ 0 (0%) | ✔️ 83 (96%)<br>❌ 3 (3%) | [Acervo Completo](2026_brasileiro-sub17.md)
-| **Total** | 253 | ✔️ 203 (80%)<br>❌ 50 (19%) | ✔️ 253 (100%)<br>❌ 0 (0%) | ✔️ 200 (79%)<br>❌ 53 (20%) | [Acervo Completo]()
+| **Total** | 253 | ✔️ 203 (80%)<br>❌ 50 (19%) | ✔️ 253 (100%)<br>❌ 0 (0%) | ✔️ 200 (79%)<br>❌ 53 (20%) | | 
 
 ## Brasileiro Feminino sub18
 
-| Ano | Jogos | Boletins Financeiros | Súmulas | Relatórios | Jogo a Jogo |
+| Ano | Jogos | Boletins<br>Financeiros | Súmulas | Relatórios | Jogo a Jogo |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 | **2019** | 90 | ✔️ 1 (1%)<br>❌ 89 (98%) | ✔️ 90 (100%)<br>❌ 0 (0%) | ✔️ 15 (16%)<br>❌ 75 (83%) | [Acervo Completo](2019_brasileiro-sub18.md)
 | **2020** | 90 | ✔️ 4 (4%)<br>❌ 86 (95%) | ✔️ 90 (100%)<br>❌ 0 (0%) | ✔️ 86 (95%)<br>❌ 4 (4%) | [Acervo Completo](2020_brasileiro-sub18.md)
 | **2021** | 90 | ✔️ 6 (6%)<br>❌ 84 (93%) | ✔️ 90 (100%)<br>❌ 0 (0%) | ✔️ 86 (95%)<br>❌ 4 (4%) | [Acervo Completo](2021_brasileiro-sub18.md)
-| **Total** | 270 | ✔️ 11 (4%)<br>❌ 259 (95%) | ✔️ 270 (100%)<br>❌ 0 (0%) | ✔️ 187 (69%)<br>❌ 83 (30%) | [Acervo Completo]()
+| **Total** | 270 | ✔️ 11 (4%)<br>❌ 259 (95%) | ✔️ 270 (100%)<br>❌ 0 (0%) | ✔️ 187 (69%)<br>❌ 83 (30%) | | 
 
 ## Brasileiro Feminino sub20
 
-| Ano | Jogos | Boletins Financeiros | Súmulas | Relatórios | Jogo a Jogo |
+| Ano | Jogos | Boletins<br>Financeiros | Súmulas | Relatórios | Jogo a Jogo |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 | **2022** | 90 | ✔️ 3 (3%)<br>❌ 87 (96%) | ✔️ 90 (100%)<br>❌ 0 (0%) | ✔️ 10 (11%)<br>❌ 80 (88%) | [Acervo Completo](2022_brasileiro-sub20.md)
 | **2023** | 109 | ✔️ 108 (99%)<br>❌ 1 (0%) | ✔️ 109 (100%)<br>❌ 0 (0%) | ✔️ 17 (15%)<br>❌ 92 (84%) | [Acervo Completo](2023_brasileiro-sub20.md)
 | **2024** | 113 | ✔️ 113 (100%)<br>❌ 0 (0%) | ✔️ 113 (100%)<br>❌ 0 (0%) | ✔️ 113 (100%)<br>❌ 0 (0%) | [Acervo Completo](2024_brasileiro-sub20.md)
 | **2025** | 85 | ✔️ 85 (100%)<br>❌ 0 (0%) | ✔️ 85 (100%)<br>❌ 0 (0%) | ✔️ 85 (100%)<br>❌ 0 (0%) | [Acervo Completo](2025_brasileiro-sub20.md)
 | **2026** | 86 | ✔️ 86 (100%)<br>❌ 0 (0%) | ✔️ 86 (100%)<br>❌ 0 (0%) | ✔️ 86 (100%)<br>❌ 0 (0%) | [Acervo Completo](2026_brasileiro-sub20.md)
-| **Total** | 483 | ✔️ 395 (81%)<br>❌ 88 (18%) | ✔️ 483 (100%)<br>❌ 0 (0%) | ✔️ 311 (64%)<br>❌ 172 (35%) | [Acervo Completo]()
+| **Total** | 483 | ✔️ 395 (81%)<br>❌ 88 (18%) | ✔️ 483 (100%)<br>❌ 0 (0%) | ✔️ 311 (64%)<br>❌ 172 (35%) | | 
 
 
 # Cobertura Total
 
 ## Por Status
 
-| Categoria | Boletins Financeiros | Súmulas | Relatórios |
+| Categoria | Boletins<br>Financeiros | Súmulas | Relatórios |
 |:-----|:-----|:-----|:-----|
 | **Sucessos** | 2581 (69%) | 3575 (96%) | 2318 (62%) | 
 | **Falhas** | 1135 (30%) | 141 (3%) | 1398 (37%) | 
@@ -111,7 +111,7 @@ Navegação Rápida
 
 ## Por Ano
 
-| Ano | Jogos | Boletins Financeiros | Súmulas | Relatórios |
+| Ano | Jogos | Boletins<br>Financeiros | Súmulas | Relatórios |
 |:-----|:-----|:-----|:-----|:-----|
 | **2017** | 188 | ✔️ 1 (0%)<br>❌ 187 (99%) | ✔️ 126 (67%)<br>❌ 62 (32%) | ✔️ 0 (0%)<br>❌ 188 (100%) |
 | **2018** | 201 | ✔️ 2 (0%)<br>❌ 199 (99%) | ✔️ 123 (61%)<br>❌ 78 (38%) | ✔️ 2 (0%)<br>❌ 199 (99%) |
@@ -127,7 +127,7 @@ Navegação Rápida
 
 ## Por Competição
 
-| Competição | Jogos | Boletins Financeiros | Súmulas | Relatórios |
+| Competição | Jogos | Boletins<br>Financeiros | Súmulas | Relatórios |
 |:-----|:-----|:-----|:-----|:-----|
 | **Brasileiro Feminino A1** | 1352 | ✔️ 969 (71%)<br>❌ 383 (28%) | ✔️ 1347 (99%)<br>❌ 5 (0%) | ✔️ 785 (58%)<br>❌ 567 (41%) |
 | **Brasileiro Feminino A2** | 902 | ✔️ 646 (71%)<br>❌ 256 (28%) | ✔️ 766 (84%)<br>❌ 136 (15%) | ✔️ 508 (56%)<br>❌ 394 (43%) |

@@ -1,6 +1,6 @@
 ## Brasileiro Feminino A2 de 2022
 
-| Jogo | Número do Jogo | Grupo | Rodada | Boletim Financeiro | Súmula | Relatório |
+| Jogo | Número do Jogo | Grupo | Rodada | Boletim<br>Financeiro | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Athletico Paranaense x Ceará | 61 | K | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2022/167101661b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2022/167101661se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a2/2022/jogos/823413_athleticoparanaense-x-ceara/823413_athleticoparanaense-x-ceara_167101661se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2022/167101661rdj.pdf)<br>-<br>**não arquivado** |
 | Ceará x Athletico Paranaense | 62 | K | 2 | [original](https://conteudo.cbf.com.br/sumulas/2022/167101662b.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a2/2022/jogos/823414_ceara-x-athleticoparanaense/823414_ceara-x-athleticoparanaense_167101662b.pdf) | [original](https://conteudo.cbf.com.br/sumulas/2022/167101662se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-a2/2022/jogos/823414_ceara-x-athleticoparanaense/823414_ceara-x-athleticoparanaense_167101662se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2022/167101662rdj.pdf)<br>-<br>**não arquivado** |

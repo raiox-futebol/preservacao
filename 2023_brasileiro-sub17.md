@@ -1,6 +1,6 @@
 ## Brasileiro Feminino sub17 de 2023
 
-| Jogo | Número do Jogo | Grupo | Rodada | Boletim Financeiro | Súmula | Relatório |
+| Jogo | Número do Jogo | Grupo | Rodada | Boletim<br>Financeiro | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Grêmio x Flamengo | 29 | G | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2023/96101629b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2023/96101629se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-sub-17/2023/jogos/826093_gremio-x-flamengo/826093_gremio-x-flamengo_96101629se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2023/96101629rdj.pdf)<br>-<br>**não arquivado** |
 | São Paulo x Flamengo | 26 | F | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2023/96101626b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2023/96101626se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-sub-17/2023/jogos/826090_saopaulo-x-flamengo/826090_saopaulo-x-flamengo_96101626se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2023/96101626rdj.pdf)<br>-<br>**não arquivado** |

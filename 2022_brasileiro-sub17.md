@@ -1,6 +1,6 @@
 ## Brasileiro Feminino sub17 de 2022
 
-| Jogo | Número do Jogo | Grupo | Rodada | Boletim Financeiro | Súmula | Relatório |
+| Jogo | Número do Jogo | Grupo | Rodada | Boletim<br>Financeiro | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Santos FC x Internacional | 23 | F | 1 | [original com erro](https://conteudo.cbf.com.br/sumulas/2022/96101623b.pdf)<br>-<br>**não arquivado** | [original](https://conteudo.cbf.com.br/sumulas/2022/96101623se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-sub-17/2022/jogos/822793_santosfc-x-internacional/822793_santosfc-x-internacional_96101623se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2022/96101623rdj.pdf)<br>-<br>**não arquivado** |
 | Grêmio x Santos FC | 20 | E | 1 | [original](https://conteudo.cbf.com.br/sumulas/2022/96101620b.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-sub-17/2022/jogos/822701_gremio-x-santosfc/822701_gremio-x-santosfc_96101620b.pdf) | [original](https://conteudo.cbf.com.br/sumulas/2022/96101620se.pdf)<br>-<br>[arquivado](https://github.com/raiox-futebol/preservacao_arquivos/blob/main/brasil/feminino-sub-17/2022/jogos/822701_gremio-x-santosfc/822701_gremio-x-santosfc_96101620se.pdf) | [original com erro](https://conteudo.cbf.com.br/sumulas/2022/96101620rdj.pdf)<br>-<br>**não arquivado** |
