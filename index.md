@@ -12,6 +12,7 @@ Navegação Rápida
     - [Por Ano](#por-ano)
     - [Por Competição](#por-competição)
 
+*Mapeamento da cobertura de documentos atualizada pela última vez em: 20/09/2026 13:26*
 
 # Cobertura
 
