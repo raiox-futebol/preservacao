@@ -1,6 +1,6 @@
 ## Brasileiro Feminino sub-18 de 2021
 
-*Mapeamento da cobertura de documentos atualizada pela última vez em: 20/09/2026 13:26*
+*Mapeamento atualizado pela última vez em: 21/09/2026 11:21*
 
 | Jogo | Número do Jogo | Grupo | Fase | Rodada | Boletim | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
