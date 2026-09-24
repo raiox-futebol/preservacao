@@ -1,6 +1,6 @@
 ## Brasileiro Feminino sub-17 de 2026
 
-*Mapeamento atualizado pela última vez em: 21/09/2026 11:21*
+*Mapeamento atualizado pela última vez em: 24/09/2026 09:09*
 
 | Jogo | Número do Jogo | Grupo | Fase | Rodada | Boletim | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
