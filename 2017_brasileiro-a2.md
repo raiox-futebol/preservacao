@@ -1,6 +1,8 @@
+[<< Retorne para a Página Principal](./index.md)
+
 ## Brasileiro Feminino A2 de 2017
 
-*Mapeamento atualizado pela última vez em: 24/09/2026 09:09*
+*Mapeamento atualizado pela última vez em: 28/09/2026 13:47*
 
 | Jogo | Número do Jogo | Grupo | Fase | Rodada | Boletim | Súmula | Relatório |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
