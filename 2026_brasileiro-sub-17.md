@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Panorama do acervo de documentos públicos da CBF
-description: Atualizado em 07/10/2026 01:31
+description: Atualizado em 07/10/2026 02:27
 ---
 
 [<< Retorne para a Página Principal](./index)
