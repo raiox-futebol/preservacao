@@ -1,10 +1,14 @@
 ---
 layout: default
-title: Panorama do acervo de documentos públicos da CBF
-description: Atualizado em 07/10/2026 02:27
+title: Panorama da falta de documentos no acervo da CBF
+description: Atualizado em 12/10/2026 02:15
 ---
 
 Navegação Rápida
+- [Panorama Geral](#panorama-geral)
+    - [Global](#global)
+    - [Por Ano](#por-ano)
+    - [Por Competição](#por-competição)
 - [Cobertura de Competições por Ano](#cobertura-de-competições-por-ano)
     - [Brasileiro Feminino A1](#brasileiro-feminino-a1)
     - [Brasileiro Feminino A2](#brasileiro-feminino-a2)
@@ -13,132 +17,125 @@ Navegação Rápida
     - [Brasileiro Feminino sub-17](#brasileiro-feminino-sub-17)
     - [Brasileiro Feminino sub-18](#brasileiro-feminino-sub-18)
     - [Brasileiro Feminino sub-20](#brasileiro-feminino-sub-20)
-- [Cobertura Total](#cobertura-total)
-    - [Por Status](#por-status)
-    - [Por Ano](#por-ano)
-    - [Por Competição](#por-competição)
+
+# Panorama Geral
+
+## Global
+
+| Jogos | Boletins<br>Indisponíveis | Súmulas<br>Indisponíveis | Relatórios<br>Indisponíveis |
+|:---|:---|:---|:---|
+| **3722** | ![](imagens/boletim.png) **1135 (30%)** | ![](imagens/sumula.png) **141 (4%)** | ![](imagens/relatorio.png) **1394 (37%)** | 
+
+## Por Ano
+
+| Ano | Jogos | Boletins<br>Indisponíveis | Súmulas<br>Indisponíveis | Relatórios<br>Indisponíveis |
+|:---|:---|:---|:---|:---|
+| **2017** | 188 | ![](imagens/boletim_2017.png) 187 (99%) | ![](imagens/sumula_2017.png) 62 (33%) | ![](imagens/relatorio_2017.png) 188 (100%) |
+| **2018** | 201 | ![](imagens/boletim_2018.png) 199 (99%) | ![](imagens/sumula_2018.png) 78 (39%) | ![](imagens/relatorio_2018.png) 199 (99%) |
+| **2019** | 366 | ![](imagens/boletim_2019.png) 235 (64%) | ![](imagens/sumula_2019.png) 0 (0%) | ![](imagens/relatorio_2019.png) 224 (61%) |
+| **2020** | 366 | ![](imagens/boletim_2020.png) 161 (44%) | ![](imagens/sumula_2020.png) 1 (0%) | ![](imagens/relatorio_2020.png) 81 (22%) |
+| **2021** | 366 | ![](imagens/boletim_2021.png) 140 (38%) | ![](imagens/sumula_2021.png) 0 (0%) | ![](imagens/relatorio_2021.png) 123 (34%) |
+| **2022** | 372 | ![](imagens/boletim_2022.png) 169 (45%) | ![](imagens/sumula_2022.png) 0 (0%) | ![](imagens/relatorio_2022.png) 301 (81%) |
+| **2023** | 404 | ![](imagens/boletim_2023.png) 44 (11%) | ![](imagens/sumula_2023.png) 0 (0%) | ![](imagens/relatorio_2023.png) 268 (66%) |
+| **2024** | 408 | ![](imagens/boletim_2024.png) 0 (0%) | ![](imagens/sumula_2024.png) 0 (0%) | ![](imagens/relatorio_2024.png) 1 (0%) |
+| **2025** | 452 | ![](imagens/boletim_2025.png) 0 (0%) | ![](imagens/sumula_2025.png) 0 (0%) | ![](imagens/relatorio_2025.png) 0 (0%) |
+| **2026** | 599 | ![](imagens/boletim_2026.png) 0 (0%) | ![](imagens/sumula_2026.png) 0 (0%) | ![](imagens/relatorio_2026.png) 9 (2%) |
+| **Total** | **3722** | ![](imagens/boletim_total_ano.png) **1135 (30%)** | ![](imagens/sumula_total_ano.png) **141 (4%)** | ![](imagens/relatorio_total_ano.png) **1394 (37%)** |
+
+## Por Competição
+
+| Competição | Jogos | Boletins<br>Indisponíveis | Súmulas<br>Indisponíveis | Relatórios<br>Indisponíveis |
+|:---|:---|:---|:---|:---|
+| **Brasileiro Feminino A1** | 1357 | ![](imagens/boletim_brasileiro-a1.png) 383 (28%) | ![](imagens/sumula_brasileiro-a1.png) 5 (0%) | ![](imagens/relatorio_brasileiro-a1.png) 564 (42%) |
+| **Brasileiro Feminino A2** | 903 | ![](imagens/boletim_brasileiro-a2.png) 256 (28%) | ![](imagens/sumula_brasileiro-a2.png) 136 (15%) | ![](imagens/relatorio_brasileiro-a2.png) 393 (44%) |
+| **Brasileiro Feminino A3** | 390 | ![](imagens/boletim_brasileiro-a3.png) 33 (8%) | ![](imagens/sumula_brasileiro-a3.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a3.png) 105 (27%) |
+| **Brasileiro Feminino sub-16** | 66 | ![](imagens/boletim_brasileiro-sub-16.png) 66 (100%) | ![](imagens/sumula_brasileiro-sub-16.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-16.png) 24 (36%) |
+| **Brasileiro Feminino sub-17** | 253 | ![](imagens/boletim_brasileiro-sub-17.png) 50 (20%) | ![](imagens/sumula_brasileiro-sub-17.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-17.png) 53 (21%) |
+| **Brasileiro Feminino sub-18** | 270 | ![](imagens/boletim_brasileiro-sub-18.png) 259 (96%) | ![](imagens/sumula_brasileiro-sub-18.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-18.png) 83 (31%) |
+| **Brasileiro Feminino sub-20** | 483 | ![](imagens/boletim_brasileiro-sub-20.png) 88 (18%) | ![](imagens/sumula_brasileiro-sub-20.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-20.png) 172 (36%) |
+| **Total** | **3722** | ![](imagens/boletim_total_competicao.png) **1135 (30%)** | ![](imagens/sumula_total_competicao.png) **141 (4%)** | ![](imagens/relatorio_total_competicao.png) **1394 (37%)** |
 
 # Cobertura de Competições por Ano
 
 ## Brasileiro Feminino A1
 
-| Ano | Jogos | Boletins | Súmulas | Relatórios | Jogo a Jogo |
-|:-----|:-----|:-----|:-----|:-----|:-----|
-| **2017** | 126 | ✔️ 1 (1%)<br>❌ 125 (99%) | ✔️ 126 (100%)<br>❌ 0 (0%) | ✔️ 0 (0%)<br>❌ 126 (100%) | [Acervo Completo](2017_brasileiro-a1.md)
-| **2018** | 126 | ✔️ 0 (0%)<br>❌ 126 (100%) | ✔️ 121 (96%)<br>❌ 5 (4%) | ✔️ 0 (0%)<br>❌ 126 (100%) | [Acervo Completo](2018_brasileiro-a1.md)
-| **2019** | 134 | ✔️ 55 (41%)<br>❌ 79 (59%) | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 69 (51%)<br>❌ 65 (49%) | [Acervo Completo](2019_brasileiro-a1.md)
-| **2020** | 134 | ✔️ 106 (79%)<br>❌ 28 (21%) | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 93 (69%)<br>❌ 41 (31%) | [Acervo Completo](2020_brasileiro-a1.md)
-| **2021** | 134 | ✔️ 119 (89%)<br>❌ 15 (11%) | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 71 (53%)<br>❌ 63 (47%) | [Acervo Completo](2021_brasileiro-a1.md)
-| **2022** | 134 | ✔️ 124 (93%)<br>❌ 10 (7%) | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 50 (37%)<br>❌ 84 (63%) | [Acervo Completo](2022_brasileiro-a1.md)
-| **2023** | 134 | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 76 (57%)<br>❌ 58 (43%) | [Acervo Completo](2023_brasileiro-a1.md)
-| **2024** | 134 | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 134 (100%)<br>❌ 0 (0%) | [Acervo Completo](2024_brasileiro-a1.md)
-| **2025** | 134 | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 134 (100%)<br>❌ 0 (0%) | [Acervo Completo](2025_brasileiro-a1.md)
-| **2026** | 167 | ✔️ 167 (100%)<br>❌ 0 (0%) | ✔️ 167 (100%)<br>❌ 0 (0%) | ✔️ 166 (99%)<br>❌ 1 (1%) | [Acervo Completo](2026_brasileiro-a1.md)
-| **Total** | 1357 | ✔️ 974 (72%)<br>❌ 383 (28%) | ✔️ 1352 (100%)<br>❌ 5 (0%) | ✔️ 793 (58%)<br>❌ 564 (42%) | | 
+| Ano | Jogos | Boletins<br>Indisponíveis | Súmulas<br>Indisponíveis | Relatórios<br>Indisponíveis | Jogo a Jogo |
+|:---|:---|:---|:---|:---|:---|
+| **2017** | 126 | ![](imagens/boletim_brasileiro-a1_2017.png) 125 (99%) | ![](imagens/sumula_brasileiro-a1_2017.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a1_2017.png) 126 (100%) | [Acervo Completo](2017_brasileiro-a1) |
+| **2018** | 126 | ![](imagens/boletim_brasileiro-a1_2018.png) 126 (100%) | ![](imagens/sumula_brasileiro-a1_2018.png) 5 (4%) | ![](imagens/relatorio_brasileiro-a1_2018.png) 126 (100%) | [Acervo Completo](2018_brasileiro-a1) |
+| **2019** | 134 | ![](imagens/boletim_brasileiro-a1_2019.png) 79 (59%) | ![](imagens/sumula_brasileiro-a1_2019.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a1_2019.png) 65 (49%) | [Acervo Completo](2019_brasileiro-a1) |
+| **2020** | 134 | ![](imagens/boletim_brasileiro-a1_2020.png) 28 (21%) | ![](imagens/sumula_brasileiro-a1_2020.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a1_2020.png) 41 (31%) | [Acervo Completo](2020_brasileiro-a1) |
+| **2021** | 134 | ![](imagens/boletim_brasileiro-a1_2021.png) 15 (11%) | ![](imagens/sumula_brasileiro-a1_2021.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a1_2021.png) 63 (47%) | [Acervo Completo](2021_brasileiro-a1) |
+| **2022** | 134 | ![](imagens/boletim_brasileiro-a1_2022.png) 10 (7%) | ![](imagens/sumula_brasileiro-a1_2022.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a1_2022.png) 84 (63%) | [Acervo Completo](2022_brasileiro-a1) |
+| **2023** | 134 | ![](imagens/boletim_brasileiro-a1_2023.png) 0 (0%) | ![](imagens/sumula_brasileiro-a1_2023.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a1_2023.png) 58 (43%) | [Acervo Completo](2023_brasileiro-a1) |
+| **2024** | 134 | ![](imagens/boletim_brasileiro-a1_2024.png) 0 (0%) | ![](imagens/sumula_brasileiro-a1_2024.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a1_2024.png) 0 (0%) | [Acervo Completo](2024_brasileiro-a1) |
+| **2025** | 134 | ![](imagens/boletim_brasileiro-a1_2025.png) 0 (0%) | ![](imagens/sumula_brasileiro-a1_2025.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a1_2025.png) 0 (0%) | [Acervo Completo](2025_brasileiro-a1) |
+| **2026** | 167 | ![](imagens/boletim_brasileiro-a1_2026.png) 0 (0%) | ![](imagens/sumula_brasileiro-a1_2026.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a1_2026.png) 1 (1%) | [Acervo Completo](2026_brasileiro-a1) |
+| **Total** | **1357** | ![](imagens/boletim_brasileiro-a1.png) **383 (28%)** | ![](imagens/sumula_brasileiro-a1.png) **5 (0%)** | ![](imagens/relatorio_brasileiro-a1.png) **564 (42%)** | |
 
 ## Brasileiro Feminino A2
 
-| Ano | Jogos | Boletins | Súmulas | Relatórios | Jogo a Jogo |
-|:-----|:-----|:-----|:-----|:-----|:-----|
-| **2017** | 62 | ✔️ 0 (0%)<br>❌ 62 (100%) | ✔️ 0 (0%)<br>❌ 62 (100%) | ✔️ 0 (0%)<br>❌ 62 (100%) | [Acervo Completo](2017_brasileiro-a2.md)
-| **2018** | 75 | ✔️ 2 (3%)<br>❌ 73 (97%) | ✔️ 2 (3%)<br>❌ 73 (97%) | ✔️ 2 (3%)<br>❌ 73 (97%) | [Acervo Completo](2018_brasileiro-a2.md)
-| **2019** | 120 | ✔️ 75 (62%)<br>❌ 45 (38%) | ✔️ 120 (100%)<br>❌ 0 (0%) | ✔️ 58 (48%)<br>❌ 62 (52%) | [Acervo Completo](2019_brasileiro-a2.md)
-| **2020** | 120 | ✔️ 95 (79%)<br>❌ 25 (21%) | ✔️ 119 (99%)<br>❌ 1 (1%) | ✔️ 85 (71%)<br>❌ 35 (29%) | [Acervo Completo](2020_brasileiro-a2.md)
-| **2021** | 120 | ✔️ 101 (84%)<br>❌ 19 (16%) | ✔️ 120 (100%)<br>❌ 0 (0%) | ✔️ 65 (54%)<br>❌ 55 (46%) | [Acervo Completo](2021_brasileiro-a2.md)
-| **2022** | 62 | ✔️ 39 (63%)<br>❌ 23 (37%) | ✔️ 62 (100%)<br>❌ 0 (0%) | ✔️ 3 (5%)<br>❌ 59 (95%) | [Acervo Completo](2022_brasileiro-a2.md)
-| **2023** | 70 | ✔️ 61 (87%)<br>❌ 9 (13%) | ✔️ 70 (100%)<br>❌ 0 (0%) | ✔️ 28 (40%)<br>❌ 42 (60%) | [Acervo Completo](2023_brasileiro-a2.md)
-| **2024** | 70 | ✔️ 70 (100%)<br>❌ 0 (0%) | ✔️ 70 (100%)<br>❌ 0 (0%) | ✔️ 69 (99%)<br>❌ 1 (1%) | [Acervo Completo](2024_brasileiro-a2.md)
-| **2025** | 70 | ✔️ 70 (100%)<br>❌ 0 (0%) | ✔️ 70 (100%)<br>❌ 0 (0%) | ✔️ 70 (100%)<br>❌ 0 (0%) | [Acervo Completo](2025_brasileiro-a2.md)
-| **2026** | 134 | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 134 (100%)<br>❌ 0 (0%) | ✔️ 130 (97%)<br>❌ 4 (3%) | [Acervo Completo](2026_brasileiro-a2.md)
-| **Total** | 903 | ✔️ 647 (72%)<br>❌ 256 (28%) | ✔️ 767 (85%)<br>❌ 136 (15%) | ✔️ 510 (56%)<br>❌ 393 (44%) | | 
+| Ano | Jogos | Boletins<br>Indisponíveis | Súmulas<br>Indisponíveis | Relatórios<br>Indisponíveis | Jogo a Jogo |
+|:---|:---|:---|:---|:---|:---|
+| **2017** | 62 | ![](imagens/boletim_brasileiro-a2_2017.png) 62 (100%) | ![](imagens/sumula_brasileiro-a2_2017.png) 62 (100%) | ![](imagens/relatorio_brasileiro-a2_2017.png) 62 (100%) | [Acervo Completo](2017_brasileiro-a2) |
+| **2018** | 75 | ![](imagens/boletim_brasileiro-a2_2018.png) 73 (97%) | ![](imagens/sumula_brasileiro-a2_2018.png) 73 (97%) | ![](imagens/relatorio_brasileiro-a2_2018.png) 73 (97%) | [Acervo Completo](2018_brasileiro-a2) |
+| **2019** | 120 | ![](imagens/boletim_brasileiro-a2_2019.png) 45 (38%) | ![](imagens/sumula_brasileiro-a2_2019.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a2_2019.png) 62 (52%) | [Acervo Completo](2019_brasileiro-a2) |
+| **2020** | 120 | ![](imagens/boletim_brasileiro-a2_2020.png) 25 (21%) | ![](imagens/sumula_brasileiro-a2_2020.png) 1 (1%) | ![](imagens/relatorio_brasileiro-a2_2020.png) 35 (29%) | [Acervo Completo](2020_brasileiro-a2) |
+| **2021** | 120 | ![](imagens/boletim_brasileiro-a2_2021.png) 19 (16%) | ![](imagens/sumula_brasileiro-a2_2021.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a2_2021.png) 55 (46%) | [Acervo Completo](2021_brasileiro-a2) |
+| **2022** | 62 | ![](imagens/boletim_brasileiro-a2_2022.png) 23 (37%) | ![](imagens/sumula_brasileiro-a2_2022.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a2_2022.png) 59 (95%) | [Acervo Completo](2022_brasileiro-a2) |
+| **2023** | 70 | ![](imagens/boletim_brasileiro-a2_2023.png) 9 (13%) | ![](imagens/sumula_brasileiro-a2_2023.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a2_2023.png) 42 (60%) | [Acervo Completo](2023_brasileiro-a2) |
+| **2024** | 70 | ![](imagens/boletim_brasileiro-a2_2024.png) 0 (0%) | ![](imagens/sumula_brasileiro-a2_2024.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a2_2024.png) 1 (1%) | [Acervo Completo](2024_brasileiro-a2) |
+| **2025** | 70 | ![](imagens/boletim_brasileiro-a2_2025.png) 0 (0%) | ![](imagens/sumula_brasileiro-a2_2025.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a2_2025.png) 0 (0%) | [Acervo Completo](2025_brasileiro-a2) |
+| **2026** | 134 | ![](imagens/boletim_brasileiro-a2_2026.png) 0 (0%) | ![](imagens/sumula_brasileiro-a2_2026.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a2_2026.png) 4 (3%) | [Acervo Completo](2026_brasileiro-a2) |
+| **Total** | **903** | ![](imagens/boletim_brasileiro-a2.png) **256 (28%)** | ![](imagens/sumula_brasileiro-a2.png) **136 (15%)** | ![](imagens/relatorio_brasileiro-a2.png) **393 (44%)** | |
 
 ## Brasileiro Feminino A3
 
-| Ano | Jogos | Boletins | Súmulas | Relatórios | Jogo a Jogo |
-|:-----|:-----|:-----|:-----|:-----|:-----|
-| **2022** | 62 | ✔️ 34 (55%)<br>❌ 28 (45%) | ✔️ 62 (100%)<br>❌ 0 (0%) | ✔️ 5 (8%)<br>❌ 57 (92%) | [Acervo Completo](2022_brasileiro-a3.md)
-| **2023** | 62 | ✔️ 57 (92%)<br>❌ 5 (8%) | ✔️ 62 (100%)<br>❌ 0 (0%) | ✔️ 15 (24%)<br>❌ 47 (76%) | [Acervo Completo](2023_brasileiro-a3.md)
-| **2024** | 62 | ✔️ 62 (100%)<br>❌ 0 (0%) | ✔️ 62 (100%)<br>❌ 0 (0%) | ✔️ 62 (100%)<br>❌ 0 (0%) | [Acervo Completo](2024_brasileiro-a3.md)
-| **2025** | 78 | ✔️ 78 (100%)<br>❌ 0 (0%) | ✔️ 78 (100%)<br>❌ 0 (0%) | ✔️ 78 (100%)<br>❌ 0 (0%) | [Acervo Completo](2025_brasileiro-a3.md)
-| **2026** | 126 | ✔️ 126 (100%)<br>❌ 0 (0%) | ✔️ 126 (100%)<br>❌ 0 (0%) | ✔️ 125 (99%)<br>❌ 1 (1%) | [Acervo Completo](2026_brasileiro-a3.md)
-| **Total** | 390 | ✔️ 357 (92%)<br>❌ 33 (8%) | ✔️ 390 (100%)<br>❌ 0 (0%) | ✔️ 285 (73%)<br>❌ 105 (27%) | | 
+| Ano | Jogos | Boletins<br>Indisponíveis | Súmulas<br>Indisponíveis | Relatórios<br>Indisponíveis | Jogo a Jogo |
+|:---|:---|:---|:---|:---|:---|
+| **2022** | 62 | ![](imagens/boletim_brasileiro-a3_2022.png) 28 (45%) | ![](imagens/sumula_brasileiro-a3_2022.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a3_2022.png) 57 (92%) | [Acervo Completo](2022_brasileiro-a3) |
+| **2023** | 62 | ![](imagens/boletim_brasileiro-a3_2023.png) 5 (8%) | ![](imagens/sumula_brasileiro-a3_2023.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a3_2023.png) 47 (76%) | [Acervo Completo](2023_brasileiro-a3) |
+| **2024** | 62 | ![](imagens/boletim_brasileiro-a3_2024.png) 0 (0%) | ![](imagens/sumula_brasileiro-a3_2024.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a3_2024.png) 0 (0%) | [Acervo Completo](2024_brasileiro-a3) |
+| **2025** | 78 | ![](imagens/boletim_brasileiro-a3_2025.png) 0 (0%) | ![](imagens/sumula_brasileiro-a3_2025.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a3_2025.png) 0 (0%) | [Acervo Completo](2025_brasileiro-a3) |
+| **2026** | 126 | ![](imagens/boletim_brasileiro-a3_2026.png) 0 (0%) | ![](imagens/sumula_brasileiro-a3_2026.png) 0 (0%) | ![](imagens/relatorio_brasileiro-a3_2026.png) 1 (1%) | [Acervo Completo](2026_brasileiro-a3) |
+| **Total** | **390** | ![](imagens/boletim_brasileiro-a3.png) **33 (8%)** | ![](imagens/sumula_brasileiro-a3.png) **0 (0%)** | ![](imagens/relatorio_brasileiro-a3.png) **105 (27%)** | |
 
 ## Brasileiro Feminino sub-16
 
-| Ano | Jogos | Boletins | Súmulas | Relatórios | Jogo a Jogo |
-|:-----|:-----|:-----|:-----|:-----|:-----|
-| **2019** | 22 | ✔️ 0 (0%)<br>❌ 22 (100%) | ✔️ 22 (100%)<br>❌ 0 (0%) | ✔️ 0 (0%)<br>❌ 22 (100%) | [Acervo Completo](2019_brasileiro-sub-16.md)
-| **2020** | 22 | ✔️ 0 (0%)<br>❌ 22 (100%) | ✔️ 22 (100%)<br>❌ 0 (0%) | ✔️ 21 (95%)<br>❌ 1 (5%) | [Acervo Completo](2020_brasileiro-sub-16.md)
-| **2021** | 22 | ✔️ 0 (0%)<br>❌ 22 (100%) | ✔️ 22 (100%)<br>❌ 0 (0%) | ✔️ 21 (95%)<br>❌ 1 (5%) | [Acervo Completo](2021_brasileiro-sub-16.md)
-| **Total** | 66 | ✔️ 0 (0%)<br>❌ 66 (100%) | ✔️ 66 (100%)<br>❌ 0 (0%) | ✔️ 42 (64%)<br>❌ 24 (36%) | | 
+| Ano | Jogos | Boletins<br>Indisponíveis | Súmulas<br>Indisponíveis | Relatórios<br>Indisponíveis | Jogo a Jogo |
+|:---|:---|:---|:---|:---|:---|
+| **2019** | 22 | ![](imagens/boletim_brasileiro-sub-16_2019.png) 22 (100%) | ![](imagens/sumula_brasileiro-sub-16_2019.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-16_2019.png) 22 (100%) | [Acervo Completo](2019_brasileiro-sub-16) |
+| **2020** | 22 | ![](imagens/boletim_brasileiro-sub-16_2020.png) 22 (100%) | ![](imagens/sumula_brasileiro-sub-16_2020.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-16_2020.png) 1 (5%) | [Acervo Completo](2020_brasileiro-sub-16) |
+| **2021** | 22 | ![](imagens/boletim_brasileiro-sub-16_2021.png) 22 (100%) | ![](imagens/sumula_brasileiro-sub-16_2021.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-16_2021.png) 1 (5%) | [Acervo Completo](2021_brasileiro-sub-16) |
+| **Total** | **66** | ![](imagens/boletim_brasileiro-sub-16.png) **66 (100%)** | ![](imagens/sumula_brasileiro-sub-16.png) **0 (0%)** | ![](imagens/relatorio_brasileiro-sub-16.png) **24 (36%)** | |
 
 ## Brasileiro Feminino sub-17
 
-| Ano | Jogos | Boletins | Súmulas | Relatórios | Jogo a Jogo |
-|:-----|:-----|:-----|:-----|:-----|:-----|
-| **2022** | 24 | ✔️ 3 (12%)<br>❌ 21 (88%) | ✔️ 24 (100%)<br>❌ 0 (0%) | ✔️ 3 (12%)<br>❌ 21 (88%) | [Acervo Completo](2022_brasileiro-sub-17.md)
-| **2023** | 29 | ✔️ 0 (0%)<br>❌ 29 (100%) | ✔️ 29 (100%)<br>❌ 0 (0%) | ✔️ 0 (0%)<br>❌ 29 (100%) | [Acervo Completo](2023_brasileiro-sub-17.md)
-| **2024** | 29 | ✔️ 29 (100%)<br>❌ 0 (0%) | ✔️ 29 (100%)<br>❌ 0 (0%) | ✔️ 29 (100%)<br>❌ 0 (0%) | [Acervo Completo](2024_brasileiro-sub-17.md)
-| **2025** | 85 | ✔️ 85 (100%)<br>❌ 0 (0%) | ✔️ 85 (100%)<br>❌ 0 (0%) | ✔️ 85 (100%)<br>❌ 0 (0%) | [Acervo Completo](2025_brasileiro-sub-17.md)
-| **2026** | 86 | ✔️ 86 (100%)<br>❌ 0 (0%) | ✔️ 86 (100%)<br>❌ 0 (0%) | ✔️ 83 (97%)<br>❌ 3 (3%) | [Acervo Completo](2026_brasileiro-sub-17.md)
-| **Total** | 253 | ✔️ 203 (80%)<br>❌ 50 (20%) | ✔️ 253 (100%)<br>❌ 0 (0%) | ✔️ 200 (79%)<br>❌ 53 (21%) | | 
+| Ano | Jogos | Boletins<br>Indisponíveis | Súmulas<br>Indisponíveis | Relatórios<br>Indisponíveis | Jogo a Jogo |
+|:---|:---|:---|:---|:---|:---|
+| **2022** | 24 | ![](imagens/boletim_brasileiro-sub-17_2022.png) 21 (88%) | ![](imagens/sumula_brasileiro-sub-17_2022.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-17_2022.png) 21 (88%) | [Acervo Completo](2022_brasileiro-sub-17) |
+| **2023** | 29 | ![](imagens/boletim_brasileiro-sub-17_2023.png) 29 (100%) | ![](imagens/sumula_brasileiro-sub-17_2023.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-17_2023.png) 29 (100%) | [Acervo Completo](2023_brasileiro-sub-17) |
+| **2024** | 29 | ![](imagens/boletim_brasileiro-sub-17_2024.png) 0 (0%) | ![](imagens/sumula_brasileiro-sub-17_2024.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-17_2024.png) 0 (0%) | [Acervo Completo](2024_brasileiro-sub-17) |
+| **2025** | 85 | ![](imagens/boletim_brasileiro-sub-17_2025.png) 0 (0%) | ![](imagens/sumula_brasileiro-sub-17_2025.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-17_2025.png) 0 (0%) | [Acervo Completo](2025_brasileiro-sub-17) |
+| **2026** | 86 | ![](imagens/boletim_brasileiro-sub-17_2026.png) 0 (0%) | ![](imagens/sumula_brasileiro-sub-17_2026.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-17_2026.png) 3 (3%) | [Acervo Completo](2026_brasileiro-sub-17) |
+| **Total** | **253** | ![](imagens/boletim_brasileiro-sub-17.png) **50 (20%)** | ![](imagens/sumula_brasileiro-sub-17.png) **0 (0%)** | ![](imagens/relatorio_brasileiro-sub-17.png) **53 (21%)** | |
 
 ## Brasileiro Feminino sub-18
 
-| Ano | Jogos | Boletins | Súmulas | Relatórios | Jogo a Jogo |
-|:-----|:-----|:-----|:-----|:-----|:-----|
-| **2019** | 90 | ✔️ 1 (1%)<br>❌ 89 (99%) | ✔️ 90 (100%)<br>❌ 0 (0%) | ✔️ 15 (17%)<br>❌ 75 (83%) | [Acervo Completo](2019_brasileiro-sub-18.md)
-| **2020** | 90 | ✔️ 4 (4%)<br>❌ 86 (96%) | ✔️ 90 (100%)<br>❌ 0 (0%) | ✔️ 86 (96%)<br>❌ 4 (4%) | [Acervo Completo](2020_brasileiro-sub-18.md)
-| **2021** | 90 | ✔️ 6 (7%)<br>❌ 84 (93%) | ✔️ 90 (100%)<br>❌ 0 (0%) | ✔️ 86 (96%)<br>❌ 4 (4%) | [Acervo Completo](2021_brasileiro-sub-18.md)
-| **Total** | 270 | ✔️ 11 (4%)<br>❌ 259 (96%) | ✔️ 270 (100%)<br>❌ 0 (0%) | ✔️ 187 (69%)<br>❌ 83 (31%) | | 
+| Ano | Jogos | Boletins<br>Indisponíveis | Súmulas<br>Indisponíveis | Relatórios<br>Indisponíveis | Jogo a Jogo |
+|:---|:---|:---|:---|:---|:---|
+| **2019** | 90 | ![](imagens/boletim_brasileiro-sub-18_2019.png) 89 (99%) | ![](imagens/sumula_brasileiro-sub-18_2019.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-18_2019.png) 75 (83%) | [Acervo Completo](2019_brasileiro-sub-18) |
+| **2020** | 90 | ![](imagens/boletim_brasileiro-sub-18_2020.png) 86 (96%) | ![](imagens/sumula_brasileiro-sub-18_2020.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-18_2020.png) 4 (4%) | [Acervo Completo](2020_brasileiro-sub-18) |
+| **2021** | 90 | ![](imagens/boletim_brasileiro-sub-18_2021.png) 84 (93%) | ![](imagens/sumula_brasileiro-sub-18_2021.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-18_2021.png) 4 (4%) | [Acervo Completo](2021_brasileiro-sub-18) |
+| **Total** | **270** | ![](imagens/boletim_brasileiro-sub-18.png) **259 (96%)** | ![](imagens/sumula_brasileiro-sub-18.png) **0 (0%)** | ![](imagens/relatorio_brasileiro-sub-18.png) **83 (31%)** | |
 
 ## Brasileiro Feminino sub-20
 
-| Ano | Jogos | Boletins | Súmulas | Relatórios | Jogo a Jogo |
-|:-----|:-----|:-----|:-----|:-----|:-----|
-| **2022** | 90 | ✔️ 3 (3%)<br>❌ 87 (97%) | ✔️ 90 (100%)<br>❌ 0 (0%) | ✔️ 10 (11%)<br>❌ 80 (89%) | [Acervo Completo](2022_brasileiro-sub-20.md)
-| **2023** | 109 | ✔️ 108 (99%)<br>❌ 1 (1%) | ✔️ 109 (100%)<br>❌ 0 (0%) | ✔️ 17 (16%)<br>❌ 92 (84%) | [Acervo Completo](2023_brasileiro-sub-20.md)
-| **2024** | 113 | ✔️ 113 (100%)<br>❌ 0 (0%) | ✔️ 113 (100%)<br>❌ 0 (0%) | ✔️ 113 (100%)<br>❌ 0 (0%) | [Acervo Completo](2024_brasileiro-sub-20.md)
-| **2025** | 85 | ✔️ 85 (100%)<br>❌ 0 (0%) | ✔️ 85 (100%)<br>❌ 0 (0%) | ✔️ 85 (100%)<br>❌ 0 (0%) | [Acervo Completo](2025_brasileiro-sub-20.md)
-| **2026** | 86 | ✔️ 86 (100%)<br>❌ 0 (0%) | ✔️ 86 (100%)<br>❌ 0 (0%) | ✔️ 86 (100%)<br>❌ 0 (0%) | [Acervo Completo](2026_brasileiro-sub-20.md)
-| **Total** | 483 | ✔️ 395 (82%)<br>❌ 88 (18%) | ✔️ 483 (100%)<br>❌ 0 (0%) | ✔️ 311 (64%)<br>❌ 172 (36%) | | 
-
-
-# Panorama Geral
-
-## Por Status
-
-| Categoria | Boletins | Súmulas | Relatórios | Parcial |
-|:-----|:-----|:-----|:-----|:-----|
-| **Disponível** | 2587 (70%) | 3581 (96%) | 2328 (63%) | 8496 |
-| **Indisponível** | 1135 (30%) | 141 (4%) | 1394 (37%) | 2670 |
-| **Total** | 3722 | 3722 | 3722 | 
-
-## Por Ano
-
-| Ano | Jogos | Boletins | Súmulas | Relatórios |
-|:-----|:-----|:-----|:-----|:-----|
-| **2017** | 188 | ✔️ 1 (1%)<br>❌ 187 (99%) | ✔️ 126 (67%)<br>❌ 62 (33%) | ✔️ 0 (0%)<br>❌ 188 (100%) |
-| **2018** | 201 | ✔️ 2 (1%)<br>❌ 199 (99%) | ✔️ 123 (61%)<br>❌ 78 (39%) | ✔️ 2 (1%)<br>❌ 199 (99%) |
-| **2019** | 366 | ✔️ 131 (36%)<br>❌ 235 (64%) | ✔️ 366 (100%)<br>❌ 0 (0%) | ✔️ 142 (39%)<br>❌ 224 (61%) |
-| **2020** | 366 | ✔️ 205 (56%)<br>❌ 161 (44%) | ✔️ 365 (100%)<br>❌ 1 (0%) | ✔️ 285 (78%)<br>❌ 81 (22%) |
-| **2021** | 366 | ✔️ 226 (62%)<br>❌ 140 (38%) | ✔️ 366 (100%)<br>❌ 0 (0%) | ✔️ 243 (66%)<br>❌ 123 (34%) |
-| **2022** | 372 | ✔️ 203 (55%)<br>❌ 169 (45%) | ✔️ 372 (100%)<br>❌ 0 (0%) | ✔️ 71 (19%)<br>❌ 301 (81%) |
-| **2023** | 404 | ✔️ 360 (89%)<br>❌ 44 (11%) | ✔️ 404 (100%)<br>❌ 0 (0%) | ✔️ 136 (34%)<br>❌ 268 (66%) |
-| **2024** | 408 | ✔️ 408 (100%)<br>❌ 0 (0%) | ✔️ 408 (100%)<br>❌ 0 (0%) | ✔️ 407 (100%)<br>❌ 1 (0%) |
-| **2025** | 452 | ✔️ 452 (100%)<br>❌ 0 (0%) | ✔️ 452 (100%)<br>❌ 0 (0%) | ✔️ 452 (100%)<br>❌ 0 (0%) |
-| **2026** | 599 | ✔️ 599 (100%)<br>❌ 0 (0%) | ✔️ 599 (100%)<br>❌ 0 (0%) | ✔️ 590 (98%)<br>❌ 9 (2%) |
-| **Total** | 3722 | ✔️ 2587 (70%)<br>❌ 1135 (30%) | ✔️ 3581 (96%)<br>❌ 141 (4%) | ✔️ 2328 (63%)<br>❌ 1394 (37%) |
-
-## Por Competição
-
-| Competição | Jogos | Boletins | Súmulas | Relatórios |
-|:-----|:-----|:-----|:-----|:-----|
-| **Brasileiro Feminino A1** | 1357 | ✔️ 974 (72%)<br>❌ 383 (28%) | ✔️ 1352 (100%)<br>❌ 5 (0%) | ✔️ 793 (58%)<br>❌ 564 (42%) |
-| **Brasileiro Feminino A2** | 903 | ✔️ 647 (72%)<br>❌ 256 (28%) | ✔️ 767 (85%)<br>❌ 136 (15%) | ✔️ 510 (56%)<br>❌ 393 (44%) |
-| **Brasileiro Feminino A3** | 390 | ✔️ 357 (92%)<br>❌ 33 (8%) | ✔️ 390 (100%)<br>❌ 0 (0%) | ✔️ 285 (73%)<br>❌ 105 (27%) |
-| **Brasileiro Feminino sub-16** | 66 | ✔️ 0 (0%)<br>❌ 66 (100%) | ✔️ 66 (100%)<br>❌ 0 (0%) | ✔️ 42 (64%)<br>❌ 24 (36%) |
-| **Brasileiro Feminino sub-17** | 253 | ✔️ 203 (80%)<br>❌ 50 (20%) | ✔️ 253 (100%)<br>❌ 0 (0%) | ✔️ 200 (79%)<br>❌ 53 (21%) |
-| **Brasileiro Feminino sub-18** | 270 | ✔️ 11 (4%)<br>❌ 259 (96%) | ✔️ 270 (100%)<br>❌ 0 (0%) | ✔️ 187 (69%)<br>❌ 83 (31%) |
-| **Brasileiro Feminino sub-20** | 483 | ✔️ 395 (82%)<br>❌ 88 (18%) | ✔️ 483 (100%)<br>❌ 0 (0%) | ✔️ 311 (64%)<br>❌ 172 (36%) |
-| **Total** | 3722 | ✔️ 2587 (70%)<br>❌ 1135 (30%) | ✔️ 3581 (96%)<br>❌ 141 (4%) | ✔️ 2328 (63%)<br>❌ 1394 (37%) |
+| Ano | Jogos | Boletins<br>Indisponíveis | Súmulas<br>Indisponíveis | Relatórios<br>Indisponíveis | Jogo a Jogo |
+|:---|:---|:---|:---|:---|:---|
+| **2022** | 90 | ![](imagens/boletim_brasileiro-sub-20_2022.png) 87 (97%) | ![](imagens/sumula_brasileiro-sub-20_2022.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-20_2022.png) 80 (89%) | [Acervo Completo](2022_brasileiro-sub-20) |
+| **2023** | 109 | ![](imagens/boletim_brasileiro-sub-20_2023.png) 1 (1%) | ![](imagens/sumula_brasileiro-sub-20_2023.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-20_2023.png) 92 (84%) | [Acervo Completo](2023_brasileiro-sub-20) |
+| **2024** | 113 | ![](imagens/boletim_brasileiro-sub-20_2024.png) 0 (0%) | ![](imagens/sumula_brasileiro-sub-20_2024.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-20_2024.png) 0 (0%) | [Acervo Completo](2024_brasileiro-sub-20) |
+| **2025** | 85 | ![](imagens/boletim_brasileiro-sub-20_2025.png) 0 (0%) | ![](imagens/sumula_brasileiro-sub-20_2025.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-20_2025.png) 0 (0%) | [Acervo Completo](2025_brasileiro-sub-20) |
+| **2026** | 86 | ![](imagens/boletim_brasileiro-sub-20_2026.png) 0 (0%) | ![](imagens/sumula_brasileiro-sub-20_2026.png) 0 (0%) | ![](imagens/relatorio_brasileiro-sub-20_2026.png) 0 (0%) | [Acervo Completo](2026_brasileiro-sub-20) |
+| **Total** | **483** | ![](imagens/boletim_brasileiro-sub-20.png) **88 (18%)** | ![](imagens/sumula_brasileiro-sub-20.png) **0 (0%)** | ![](imagens/relatorio_brasileiro-sub-20.png) **172 (36%)** | |
